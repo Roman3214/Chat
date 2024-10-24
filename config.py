@@ -1,0 +1,2 @@
+TOKEN = "1540969022:AAEL1JTBnepx02stp78awoSlxpBVsfsFSSM"
+user_tgid = "584914872"
