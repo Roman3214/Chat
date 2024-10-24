@@ -1,2 +1,2 @@
-TOKEN = "1540969022:AAEL1JTBnepx02stp78awoSlxpBVsfsFSSM"
-user_tgid = "584914872"
+TOKEN = "0000000000:AAEL....."
+user_tgid = "00000001"
